@@ -27,6 +27,14 @@ Heute kam ich gut vorwärts obwohl der erste Auftrag recht langsam voranging. Di
 - Dort wo möglich die Module auf den dieszeitigen Stand bringen.
 - Ich möchte an meinem eigenen Projekt weiterarbeiten und mindestens alle Eingaben für dass Array machen und den möglichen for-loop aufzubauen.
 
+## 29.08.2025
 
+Heute kam ich gut in der Arbeit an meinem Projekt voran. Doch der Weg, in dem ich es schrieb, war aufwendig und repetiv. Auch heute hatte ich das Lerngespräch mit Herrn Thut. Bei diesem zeigte ich das Projekt und wurde informiert wie ich den Code effizienter und weniger Platzbrauchend schreibe.
+
+## Planung 05.09.2025
+
+- Den Code des Projektes mit switch statements zu überarbeiten.
+- Den Code weiter aufpolieren und das Projekt abschliessen.
+- An den Modulen weiterarbeiten falls ich noch aufholen muss.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
