@@ -36,5 +36,16 @@ Heute kam ich gut in der Arbeit an meinem Projekt voran. Doch der Weg, in dem ic
 - Den Code des Projektes mit switch statements zu überarbeiten.
 - Den Code weiter aufpolieren und das Projekt abschliessen.
 - An den Modulen weiterarbeiten falls ich noch aufholen muss.
+
+## 05.09.2025
+
+Heute ging es gut voran. Ich konnte den Code des CR-Claculators vollständig zu Switch-Statements umwandeln und sicherstellen dass er funktioniert. Auch konnte ich ein kleines Programm schreiben um verschiedene Würfel würfe zu simmulieren. Dass Würfel Programm könnte ich noch ein bisschen geordneter aufbauen und die Funktion mit welcher man den Loop beendet besser ausführen.
+
+## Planung 12.09.2025
+
+- Das Würfel Programm verbessern
+- Über ein neues Projekt Brainstormen
+- Dass neue Projekt hoffentlich noch an diesem Tag beginnen
+  
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
