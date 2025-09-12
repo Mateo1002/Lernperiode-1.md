@@ -46,6 +46,16 @@ Heute ging es gut voran. Ich konnte den Code des CR-Claculators vollständig zu 
 - Das Würfel Programm verbessern
 - Über ein neues Projekt Brainstormen
 - Dass neue Projekt hoffentlich noch an diesem Tag beginnen
+
+## 12.09.2025
+
+Heute kam ich weniger gut voran. Ich konnte an meinem neuen Projekt nur wenig arbeiten da ich die meiste Zeit damit verbraucht hatte herauszufinden was ich machen wollte. Auch ist der Code den ich schon geschrieben habe nicht so wie ich ihn will da er noch nicht wirklich funktioniert.
+
+## Planung 19.09.2025
+
+- Die Array Funktion so zu Ändern dass sie nicht auf dem letzten Vergleich basiert sondern richtig funktioniert
+- Mit der Anwendung der Class beginnen
+- Ideen für Encounters notieren
   
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
