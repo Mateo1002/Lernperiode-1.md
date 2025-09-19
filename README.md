@@ -56,6 +56,6 @@ Heute kam ich weniger gut voran. Ich konnte an meinem neuen Projekt nur wenig ar
 - Die Array Funktion so zu Ändern dass sie nicht auf dem letzten Vergleich basiert sondern richtig funktioniert
 - Mit der Anwendung der Class beginnen
 - Ideen für Encounters notieren
-  
+
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
+In dieser Lernepriode habe ich zwei kleinere Projekte begonnen und beendet. Das erste Projekt war ein Herausforderungsgrad Berechner für DnD 5th edition, das Projekt zu machen verlief gut doch ich begann zuerst mit if statements bis Herr Thut mich bei einem Gespräch über Switch Statements informiert hat. Das zweite Projekt ist ein Würfel Simulator welcher, nachdem ich herausfand wie man Random Funktionen macht, recht einfach zu machen war. Auch habe ich ein grösseres Projekt begonnen bei dem mir noch nicht ganz klar ist wie ich es ausführe.
